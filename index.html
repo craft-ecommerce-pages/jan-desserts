@@ -440,6 +440,7 @@
         <button class="pill active" data-cat="all">Todos</button>
         <button class="pill" data-cat="clasico">Clásicos</button>
         <button class="pill" data-cat="premium">Premium</button>
+        <button class="pill" data-cat="sal">Salados</button>
       </div>
     </div>
   </div>
@@ -586,7 +587,7 @@
       });
 
       $catalog.innerHTML = '';
-      const catOrder = ['clasico','premium'];
+      const catOrder = ['clasico','premium','sal'];
       const catLabels = config.categories || { clasico:'Bocaditos Clásicos', premium:'Bocaditos Premium' };
 
       catOrder.forEach(cat => {
