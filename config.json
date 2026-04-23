@@ -8,6 +8,7 @@
   "min_days_advance": 7,
   "categories": {
     "clasico": "Bocaditos Clásicos",
-    "premium": "Bocaditos Premium"
+    "premium": "Bocaditos Premium",
+    "sal": "Bocaditos Salados"
   }
 }
