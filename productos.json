@@ -8,7 +8,9 @@
     "categoria": "clasico",
     "descripcion": "Galletas de maicena rellenas de dulce de leche, espolvoreadas con azúcar glass.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/alfajores/images/alfajores-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -21,7 +23,9 @@
     "categoria": "clasico",
     "descripcion": "Suaves bolitas de coco rallado con leche condensada. Textura húmeda y sabor tropical.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/bolitas-de-coco/images/bolitas-de-coco-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -34,7 +38,9 @@
     "categoria": "clasico",
     "descripcion": "Delicadas bolitas de leche con un toque de vainilla. Sencillas y elegantes.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/bolitas-de-leche/images/bolitas-de-leche-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -47,7 +53,9 @@
     "categoria": "premium",
     "descripcion": "Bombón de chocolate oscuro decorado con flor de oro comestible. Puro lujo artesanal.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/bombones-brigadeiro/images/bombones-brigadeiro-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -60,7 +68,9 @@
     "categoria": "premium",
     "descripcion": "Duo de brigadeiro: chocolate y leche ninho unidos en un solo bocadito con toque dorado.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/brigadeiro-casadinho/images/brigadeiro-casadinho-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -73,7 +83,9 @@
     "categoria": "premium",
     "descripcion": "Brigadeiro de cereza con cobertura de chocolate y relleno frutal. Explosión de sabor.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/brigadeiro-cereza/images/brigadeiro-cereza-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -86,7 +98,9 @@
     "categoria": "premium",
     "descripcion": "Brigadeiro con sabor a crème brûlée y cobertura caramelizada con lámina de oro.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/brigadeiro-creme-brulee/images/brigadeiro-creme-brulee-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -99,7 +113,9 @@
     "categoria": "premium",
     "descripcion": "El clásico brigadeiro brasileño de chocolate intenso. Rico, denso e irresistible.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/brigadeiro-de-chocolate/images/brigadeiro-de-chocolate-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -112,7 +128,9 @@
     "categoria": "premium",
     "descripcion": "Brigadeiro brasileño cubierto de pistachos triturados. Cremoso, crocante y sofisticado.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/brigadeiro-de-pistacho/images/brigadeiro-de-pistacho-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -125,7 +143,9 @@
     "categoria": "premium",
     "descripcion": "Brigadeiro red velvet decorado con flor dorada artesanal. Hermoso y delicioso.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/brigadeiro-red-velvet/images/brigadeiro-red-velvet-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -138,7 +158,9 @@
     "categoria": "premium",
     "descripcion": "Esfera celeste de chocolate blanco coronada con nuez dorada. Artesanía pura.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/camafeo-de-nuez/images/camafeo-de-nuez-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -151,7 +173,9 @@
     "categoria": "clasico",
     "descripcion": "Base crocante con cheesecake cremoso y mermelada artesanal de frutos rojos.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/cheesecake-de-frutos-rojos/images/cheesecake-de-frutos-rojos-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -164,7 +188,9 @@
     "categoria": "clasico",
     "descripcion": "Cheesecake individual con crema de limón y topping de chantilly. Fresco y ligero.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/cheesecake-de-limon/images/cheesecake-de-limon-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -177,7 +203,9 @@
     "categoria": "clasico",
     "descripcion": "Mini cheesecakes cremosos con coulis de maracuyá fresco. Acidez perfecta en cada bocado.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/cheesecake-de-maracuya/images/cheesecake-de-maracuya-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -190,7 +218,9 @@
     "categoria": "premium",
     "descripcion": "Chocolate con leche relleno de praliné, coronado con nuez caramelizada y lámina de oro.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/dedito-de-nuez/images/dedito-de-nuez-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -203,7 +233,9 @@
     "categoria": "sal",
     "descripcion": "Hojaldre relleno de carne molida sazonada. Crujiente por fuera, jugoso por dentro.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/hojaldre-de-carne/images/hojaldre-de-carne-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -216,7 +248,9 @@
     "categoria": "sal",
     "descripcion": "Hojaldre dorado y crocante relleno de jamón y queso derretido. Irresistiblemente crujiente.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/hojaldre-jamon-y-queso/images/hojaldre-jamon-y-queso-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -229,7 +263,9 @@
     "categoria": "sal",
     "descripcion": "Hojaldre estilo pizza con salsa, pepperoni y queso gratinado. Favorito de todos.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/hojaldre-pizza/images/hojaldre-pizza-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -242,7 +278,9 @@
     "categoria": "sal",
     "descripcion": "Mini sandwich de jamón con toque fresco de albahaca. Elegante y aromático.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/mini-sandwich-jamon-con-albahaca/images/mini-sandwich-jamon-con-albahaca-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -255,7 +293,9 @@
     "categoria": "sal",
     "descripcion": "Mini sandwich de miga con jamón y queso. Clásico y delicioso.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/mini-sandwich-jamon-y-queso/images/mini-sandwich-jamon-y-queso-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -268,7 +308,9 @@
     "categoria": "sal",
     "descripcion": "Mini sandwich de pollo con choclo tierno. Suave y lleno de sabor.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/mini-sandwich-pollo-con-choclo/images/mini-sandwich-pollo-con-choclo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -281,7 +323,9 @@
     "categoria": "sal",
     "descripcion": "Mini tartaletas rellenas de cremoso pollo desmenuzado. Un bocado irresistible.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/mini-tartaleta-de-pollo/images/mini-tartaleta-de-pollo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -294,7 +338,9 @@
     "categoria": "sal",
     "descripcion": "Mini tartaletas de masa crujiente rellenas de carne sazonada. Perfectas para cualquier evento.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/mini-tartaletas-de-carne/images/mini-tartaletas-de-carne-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -307,7 +353,9 @@
     "categoria": "premium",
     "descripcion": "Escultura de chocolate blanco con cereza y detalles en pan de oro. Una joya comestible.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/peritas-de-cereza/images/peritas-de-cereza-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -344,7 +392,9 @@
     "categoria": "premium",
     "descripcion": "Masa sablée con crema de pistacho y trocitos crocantes. Elegancia en miniatura.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/tarta-de-pistacho/images/tarta-de-pistacho-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -357,7 +407,9 @@
     "categoria": "clasico",
     "descripcion": "Vasitos de mousse de chocolate sobre base de brownie. Intenso y adictivo.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/torta-con-mousse/images/torta-con-mousse-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -370,7 +422,9 @@
     "categoria": "premium",
     "descripcion": "Trufa de chocolate blanco con ganache de limón y flor rosa. Delicada y refrescante.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/trufa-de-limon/images/trufa-de-limon-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -383,7 +437,9 @@
     "categoria": "premium",
     "descripcion": "Trufa de manjar blanco con almendras caramelizadas. Texturas que enamoran.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/trufa-de-manjar-y-pecanas/images/trufa-de-manjar-y-pecanas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -396,7 +452,9 @@
     "categoria": "sal",
     "descripcion": "Wrap enrollado con jamón, queso y vegetales frescos. Fresco y sabroso.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/wrap-jamon-y-queso/images/wrap-jamon-y-queso-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -409,7 +467,9 @@
     "categoria": "premium",
     "descripcion": "Caramelos artesanales de yema acaramelada con envoltura iridiscente. Dulzura clásica.",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/yemita-acarameladas/images/yemita-acarameladas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   }
