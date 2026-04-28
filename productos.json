@@ -225,6 +225,19 @@
     "sku": ""
   },
   {
+    "id": 12271,
+    "slug": "hamburguesa-parrillera",
+    "nombre": "Hamburguesa Parrillera",
+    "precio": "6.99",
+    "precio_promo": "",
+    "categoria": "",
+    "descripcion": "Pan artesanal, dble carne, tocino, chorizo paisa, huevo frito , porcion de papas",
+    "stock": -1,
+    "imagenes": [],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": 30,
     "slug": "hojaldre-de-carne",
     "nombre": "Hojaldre de Carne",
@@ -357,32 +370,6 @@
       "producto/peritas-de-cereza/images/peritas-de-cereza-1.webp"
     ],
     "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": 12270,
-    "slug": "producto-de-prueba",
-    "nombre": "Producto de prueba",
-    "precio": "$24.99",
-    "precio_promo": "",
-    "categoria": "clasico",
-    "descripcion": "Producto de prueba para probar la funcion de rebuild",
-    "stock": -1,
-    "imagenes": [
-      "producto/producto-de-prueba/images/producto-de-prueba-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Talla",
-        "options": [
-          "XL",
-          "L",
-          "M",
-          "S",
-          "XS"
-        ]
-      }
-    ],
     "sku": ""
   },
   {
