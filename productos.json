@@ -368,7 +368,9 @@
     "categoria": "clasico",
     "descripcion": "Producto de prueba para probar la funcion de rebuild",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/producto-de-prueba/images/producto-de-prueba-1.webp"
+    ],
     "variantes": [
       {
         "name": "Talla",
