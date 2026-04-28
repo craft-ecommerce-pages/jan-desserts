@@ -550,8 +550,8 @@
     }
     function parsePrice(p){
       if(typeof p.precio === 'number') return p.precio;
-      const n = parseFloat((p.precio||'').toString().replace(/[^0-9.]/g,''));
-      return isNaN(n) ? 0 : n;
+      const match = (p.precio||'').toString().match(/[\d.]+/);
+      return match ? parseFloat(match[0]) : 0;
     }
     function getImages(p){
       if(Array.isArray(p.imagenes) && p.imagenes.length) return p.imagenes;
@@ -701,7 +701,7 @@
                     ✓ ${inCartQty*25}u
                   </button>
                 `:`
-                  <button class="btn-add" data-open="${p.id}">
+                  <button class="btn-add" ${hasVariants?`data-open="${p.id}"`:`data-add="${p.id}"`}>
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 5v14M5 12h14"/></svg>
                     ${hasVariants?'Elegir opciones':'Agregar'}
                   </button>
@@ -740,7 +740,7 @@
           `;
         } else {
           actionsEl.innerHTML=`
-            <button class="btn-add" data-open="${id}">
+            <button class="btn-add" ${hasVariants?`data-open="${id}"`:`data-add="${id}"`}>
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 5v14M5 12h14"/></svg>
               ${hasVariants?'Elegir opciones':'Agregar'}
             </button>
@@ -974,6 +974,13 @@
 
     /* ── EVENT DELEGATION ── */
     document.addEventListener('click', e=>{
+      // Direct add (no-variant products)
+      const addTrigger = e.target.closest('[data-add]');
+      if(addTrigger && !e.target.closest('[data-action]')){
+        cartAdd(addTrigger.dataset.add, {}, 1);
+        return;
+      }
+
       // Open modal
       const openTrigger = e.target.closest('[data-open]');
       if(openTrigger && !e.target.closest('[data-action]')){
