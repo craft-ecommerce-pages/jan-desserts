@@ -233,7 +233,9 @@
     "categoria": "",
     "descripcion": "Pan artesanal, dble carne, tocino, chorizo paisa, huevo frito , porcion de papas",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/hamburguesa-parrillera/images/hamburguesa-parrillera-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
