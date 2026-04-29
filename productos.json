@@ -375,6 +375,19 @@
     "sku": ""
   },
   {
+    "id": 12273,
+    "slug": "porcion-de-papas-fritas",
+    "nombre": "Porción de Papas fritas",
+    "precio": "$1.50",
+    "precio_promo": "",
+    "categoria": "",
+    "descripcion": "Porcion de papas fritas 500g",
+    "stock": -1,
+    "imagenes": [],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": 10,
     "slug": "tarta-de-pistacho",
     "nombre": "Tarta de Pistacho",
