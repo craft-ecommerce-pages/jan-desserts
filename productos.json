@@ -233,7 +233,9 @@
     "categoria": "",
     "descripcion": "Pan artesanal, doble carne, doble queso, chorizo paisa, y un huevo frito",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/hamburguesa-parrillera/images/hamburguesa-parrillera-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
