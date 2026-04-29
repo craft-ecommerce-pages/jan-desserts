@@ -225,17 +225,15 @@
     "sku": ""
   },
   {
-    "id": 12272,
+    "id": 12274,
     "slug": "hamburguesa-parrillera",
     "nombre": "Hamburguesa Parrillera",
     "precio": "$6.99",
     "precio_promo": "",
-    "categoria": "",
-    "descripcion": "Pan artesanal, doble carne, doble queso, chorizo paisa, y un huevo frito",
+    "categoria": "clasico",
+    "descripcion": "Pan Artesanal, doble carne, huevo frito, chorizo paisa",
     "stock": -1,
-    "imagenes": [
-      "producto/hamburguesa-parrillera/images/hamburguesa-parrillera-1.webp"
-    ],
+    "imagenes": [],
     "variantes": [],
     "sku": ""
   },
@@ -370,21 +368,6 @@
     "stock": -1,
     "imagenes": [
       "producto/peritas-de-cereza/images/peritas-de-cereza-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": 12273,
-    "slug": "porcion-de-papas-fritas",
-    "nombre": "Porción de Papas fritas",
-    "precio": "$1.50",
-    "precio_promo": "",
-    "categoria": "",
-    "descripcion": "Porcion de papas fritas 500g",
-    "stock": -1,
-    "imagenes": [
-      "producto/porcion-de-papas-fritas/images/porcion-de-papas-fritas-1.webp"
     ],
     "variantes": [],
     "sku": ""
