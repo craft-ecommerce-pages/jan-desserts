@@ -233,7 +233,9 @@
     "categoria": "clasico",
     "descripcion": "Pan Artesanal, doble carne, huevo frito, chorizo paisa",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/hamburguesa-parrillera/images/hamburguesa-parrillera-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
