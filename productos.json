@@ -225,17 +225,15 @@
     "sku": ""
   },
   {
-    "id": 12271,
+    "id": 12272,
     "slug": "hamburguesa-parrillera",
     "nombre": "Hamburguesa Parrillera",
-    "precio": "6.99",
+    "precio": "$6.99",
     "precio_promo": "",
     "categoria": "",
-    "descripcion": "Pan artesanal, dble carne, tocino, chorizo paisa, huevo frito , porcion de papas",
+    "descripcion": "Pan artesanal, doble carne, doble queso, chorizo paisa, y un huevo frito",
     "stock": -1,
-    "imagenes": [
-      "producto/hamburguesa-parrillera/images/hamburguesa-parrillera-1.webp"
-    ],
+    "imagenes": [],
     "variantes": [],
     "sku": ""
   },
