@@ -383,7 +383,9 @@
     "categoria": "",
     "descripcion": "Porcion de papas fritas 500g",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/porcion-de-papas-fritas/images/porcion-de-papas-fritas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
