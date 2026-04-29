@@ -225,21 +225,6 @@
     "sku": ""
   },
   {
-    "id": 12274,
-    "slug": "hamburguesa-parrillera",
-    "nombre": "Hamburguesa Parrillera",
-    "precio": "$6.99",
-    "precio_promo": "",
-    "categoria": "clasico",
-    "descripcion": "Pan Artesanal, doble carne, huevo frito, chorizo paisa",
-    "stock": -1,
-    "imagenes": [
-      "producto/hamburguesa-parrillera/images/hamburguesa-parrillera-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
     "id": 30,
     "slug": "hojaldre-de-carne",
     "nombre": "Hojaldre de Carne",
