@@ -165,6 +165,19 @@
     "sku": ""
   },
   {
+    "id": 12279,
+    "slug": "cepillo-secador-3-en-1",
+    "nombre": "Cepillo secador 3 en 1",
+    "precio": "29.99",
+    "precio_promo": "",
+    "categoria": "clasico",
+    "descripcion": "Cepillo secador 2 en 1",
+    "stock": -1,
+    "imagenes": [],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": 6,
     "slug": "cheesecake-de-frutos-rojos",
     "nombre": "Cheesecake de Frutos Rojos",
