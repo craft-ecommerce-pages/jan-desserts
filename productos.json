@@ -173,7 +173,9 @@
     "categoria": "clasico",
     "descripcion": "Cepillo secador 2 en 1",
     "stock": -1,
-    "imagenes": [],
+    "imagenes": [
+      "producto/cepillo-secador-3-en-1/images/cepillo-secador-3-en-1-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
