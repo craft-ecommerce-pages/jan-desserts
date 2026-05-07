@@ -360,6 +360,19 @@
     "sku": ""
   },
   {
+    "id": 12278,
+    "slug": "reloj-t500",
+    "nombre": "Reloj t500",
+    "precio": "29.99",
+    "precio_promo": "",
+    "categoria": "clasico",
+    "descripcion": "Reloj t500 a prueba de agua",
+    "stock": -1,
+    "imagenes": [],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": 10,
     "slug": "tarta-de-pistacho",
     "nombre": "Tarta de Pistacho",
