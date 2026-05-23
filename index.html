@@ -622,7 +622,7 @@
 
     /* ── RENDER CATALOG ── */
     function buildFilterPills(){
-      const cats = [...new Set(products.map(p=>p.categoria).filter(Boolean))];
+      const cats = [...new Set(products.flatMap(p=>p.categorias||[]))];
       $filterPills.innerHTML = '<button class="pill active" data-cat="all">Todos</button>';
       const catLabels = config.categories || {};
       cats.forEach(cat=>{
@@ -636,7 +636,7 @@
 
     function renderCatalog(){
       const filtered = products.filter(p=>{
-        const matchCat = activeFilter==='all' || p.categoria===activeFilter;
+        const matchCat = activeFilter==='all' || (p.categorias||[]).includes(activeFilter);
         const matchSearch = !searchQuery ||
           normalize(p.nombre).includes(searchQuery) ||
           normalize(p.descripcion||'').includes(searchQuery);
@@ -645,7 +645,7 @@
 
       const groups = {};
       filtered.forEach(p=>{
-        const c = p.categoria||'';
+        const c = (p.categorias||[])[0]||'';
         if(!groups[c]) groups[c]=[];
         groups[c].push(p);
       });
@@ -679,7 +679,7 @@
           card.innerHTML = `
             <div class="card-img" data-open="${p.id}">
               <img src="${imgs[0]||''}" alt="${p.nombre}" loading="lazy"/>
-              ${p.categoria==='premium'?'<span class="card-badge">Premium</span>':''}
+              ${(p.categorias||[]).includes('premium')?'<span class="card-badge">Premium</span>':''}
               ${imgs.length>1?`<span class="card-img-count">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
                 ${imgs.length}</span>`:''}
