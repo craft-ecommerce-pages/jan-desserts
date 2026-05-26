@@ -1,480 +1,542 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "slug": "alfajores",
     "nombre": "Alfajores",
     "precio": "$10 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Galletas de maicena rellenas de dulce de leche, espolvoreadas con azúcar glass.",
     "stock": -1,
     "imagenes": [
-      "producto/alfajores/images/alfajores-1.webp"
+      "/producto/alfajores/images/alfajores-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 2,
+    "id": "2",
     "slug": "bolitas-de-coco",
     "nombre": "Bolitas de Coco",
     "precio": "$13 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Suaves bolitas de coco rallado con leche condensada. Textura húmeda y sabor tropical.",
     "stock": -1,
     "imagenes": [
-      "producto/bolitas-de-coco/images/bolitas-de-coco-1.webp"
+      "/producto/bolitas-de-coco/images/bolitas-de-coco-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 3,
+    "id": "3",
     "slug": "bolitas-de-leche",
     "nombre": "Bolitas de Leche",
     "precio": "$11 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Delicadas bolitas de leche con un toque de vainilla. Sencillas y elegantes.",
     "stock": -1,
     "imagenes": [
-      "producto/bolitas-de-leche/images/bolitas-de-leche-1.webp"
+      "/producto/bolitas-de-leche/images/bolitas-de-leche-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 18,
+    "id": "18",
     "slug": "bombones-brigadeiro",
     "nombre": "Bombones Brigadeiro",
     "precio": "$25 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Bombón de chocolate oscuro decorado con flor de oro comestible. Puro lujo artesanal.",
     "stock": -1,
     "imagenes": [
-      "producto/bombones-brigadeiro/images/bombones-brigadeiro-1.webp"
+      "/producto/bombones-brigadeiro/images/bombones-brigadeiro-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 17,
+    "id": "17",
     "slug": "brigadeiro-casadinho",
     "nombre": "Brigadeiro Casadinho",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Duo de brigadeiro: chocolate y leche ninho unidos en un solo bocadito con toque dorado.",
     "stock": -1,
     "imagenes": [
-      "producto/brigadeiro-casadinho/images/brigadeiro-casadinho-1.webp"
+      "/producto/brigadeiro-casadinho/images/brigadeiro-casadinho-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 20,
+    "id": "20",
     "slug": "brigadeiro-cereza",
     "nombre": "Brigadeiro Cereza",
     "precio": "$25 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Brigadeiro de cereza con cobertura de chocolate y relleno frutal. Explosión de sabor.",
     "stock": -1,
     "imagenes": [
-      "producto/brigadeiro-cereza/images/brigadeiro-cereza-1.webp"
+      "/producto/brigadeiro-cereza/images/brigadeiro-cereza-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 14,
+    "id": "14",
     "slug": "brigadeiro-creme-brulee",
     "nombre": "Brigadeiro Crème Brûlée",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Brigadeiro con sabor a crème brûlée y cobertura caramelizada con lámina de oro.",
     "stock": -1,
     "imagenes": [
-      "producto/brigadeiro-creme-brulee/images/brigadeiro-creme-brulee-1.webp"
+      "/producto/brigadeiro-creme-brulee/images/brigadeiro-creme-brulee-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 15,
+    "id": "15",
     "slug": "brigadeiro-de-chocolate",
     "nombre": "Brigadeiro de Chocolate",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "El clásico brigadeiro brasileño de chocolate intenso. Rico, denso e irresistible.",
     "stock": -1,
     "imagenes": [
-      "producto/brigadeiro-de-chocolate/images/brigadeiro-de-chocolate-1.webp"
+      "/producto/brigadeiro-de-chocolate/images/brigadeiro-de-chocolate-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 12,
+    "id": "12",
     "slug": "brigadeiro-de-pistacho",
     "nombre": "Brigadeiro de Pistacho",
     "precio": "$25 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Brigadeiro brasileño cubierto de pistachos triturados. Cremoso, crocante y sofisticado.",
     "stock": -1,
     "imagenes": [
-      "producto/brigadeiro-de-pistacho/images/brigadeiro-de-pistacho-1.webp"
+      "/producto/brigadeiro-de-pistacho/images/brigadeiro-de-pistacho-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 16,
+    "id": "16",
     "slug": "brigadeiro-red-velvet",
     "nombre": "Brigadeiro Red Velvet",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Brigadeiro red velvet decorado con flor dorada artesanal. Hermoso y delicioso.",
     "stock": -1,
     "imagenes": [
-      "producto/brigadeiro-red-velvet/images/brigadeiro-red-velvet-1.webp"
+      "/producto/brigadeiro-red-velvet/images/brigadeiro-red-velvet-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 21,
+    "id": "21",
     "slug": "camafeo-de-nuez",
     "nombre": "Camafeo de Nuez",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Esfera celeste de chocolate blanco coronada con nuez dorada. Artesanía pura.",
     "stock": -1,
     "imagenes": [
-      "producto/camafeo-de-nuez/images/camafeo-de-nuez-1.webp"
+      "/producto/camafeo-de-nuez/images/camafeo-de-nuez-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 12279,
+    "id": "12279",
     "slug": "cepillo-secador-3-en-1",
     "nombre": "Cepillo secador 3 en 1",
     "precio": "29.99",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Cepillo secador 2 en 1",
     "stock": -1,
     "imagenes": [
-      "producto/cepillo-secador-3-en-1/images/cepillo-secador-3-en-1-1.webp"
+      "/producto/cepillo-secador-3-en-1/images/cepillo-secador-3-en-1-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 6,
+    "id": "6",
     "slug": "cheesecake-de-frutos-rojos",
     "nombre": "Cheesecake de Frutos Rojos",
     "precio": "$17 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Base crocante con cheesecake cremoso y mermelada artesanal de frutos rojos.",
     "stock": -1,
     "imagenes": [
-      "producto/cheesecake-de-frutos-rojos/images/cheesecake-de-frutos-rojos-1.webp"
+      "/producto/cheesecake-de-frutos-rojos/images/cheesecake-de-frutos-rojos-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 5,
+    "id": "5",
     "slug": "cheesecake-de-limon",
     "nombre": "Cheesecake de Limón",
     "precio": "$15 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Cheesecake individual con crema de limón y topping de chantilly. Fresco y ligero.",
     "stock": -1,
     "imagenes": [
-      "producto/cheesecake-de-limon/images/cheesecake-de-limon-1.webp"
+      "/producto/cheesecake-de-limon/images/cheesecake-de-limon-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 4,
+    "id": "4",
     "slug": "cheesecake-de-maracuya",
     "nombre": "Cheesecake de Maracuyá",
     "precio": "$19 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Mini cheesecakes cremosos con coulis de maracuyá fresco. Acidez perfecta en cada bocado.",
     "stock": -1,
     "imagenes": [
-      "producto/cheesecake-de-maracuya/images/cheesecake-de-maracuya-1.webp"
+      "/producto/cheesecake-de-maracuya/images/cheesecake-de-maracuya-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 9,
+    "id": "9",
     "slug": "dedito-de-nuez",
     "nombre": "Dedito de Nuez",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Chocolate con leche relleno de praliné, coronado con nuez caramelizada y lámina de oro.",
     "stock": -1,
     "imagenes": [
-      "producto/dedito-de-nuez/images/dedito-de-nuez-1.webp"
+      "/producto/dedito-de-nuez/images/dedito-de-nuez-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 30,
+    "id": "30",
     "slug": "hojaldre-de-carne",
     "nombre": "Hojaldre de Carne",
     "precio": "$17 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Hojaldre relleno de carne molida sazonada. Crujiente por fuera, jugoso por dentro.",
     "stock": -1,
     "imagenes": [
-      "producto/hojaldre-de-carne/images/hojaldre-de-carne-1.webp"
+      "/producto/hojaldre-de-carne/images/hojaldre-de-carne-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 28,
+    "id": "28",
     "slug": "hojaldre-jamon-y-queso",
     "nombre": "Hojaldre Jamón y Queso",
     "precio": "$19 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Hojaldre dorado y crocante relleno de jamón y queso derretido. Irresistiblemente crujiente.",
     "stock": -1,
     "imagenes": [
-      "producto/hojaldre-jamon-y-queso/images/hojaldre-jamon-y-queso-1.webp"
+      "/producto/hojaldre-jamon-y-queso/images/hojaldre-jamon-y-queso-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 29,
+    "id": "29",
     "slug": "hojaldre-pizza",
     "nombre": "Hojaldre Pizza",
     "precio": "$19 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Hojaldre estilo pizza con salsa, pepperoni y queso gratinado. Favorito de todos.",
     "stock": -1,
     "imagenes": [
-      "producto/hojaldre-pizza/images/hojaldre-pizza-1.webp"
+      "/producto/hojaldre-pizza/images/hojaldre-pizza-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 27,
+    "id": "27",
     "slug": "mini-sandwich-jamon-con-albahaca",
     "nombre": "Mini Sandwich Jamón con Albahaca",
     "precio": "$15 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Mini sandwich de jamón con toque fresco de albahaca. Elegante y aromático.",
     "stock": -1,
     "imagenes": [
-      "producto/mini-sandwich-jamon-con-albahaca/images/mini-sandwich-jamon-con-albahaca-1.webp"
+      "/producto/mini-sandwich-jamon-con-albahaca/images/mini-sandwich-jamon-con-albahaca-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 25,
+    "id": "25",
     "slug": "mini-sandwich-jamon-y-queso",
     "nombre": "Mini Sandwich Jamón y Queso",
     "precio": "$16 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Mini sandwich de miga con jamón y queso. Clásico y delicioso.",
     "stock": -1,
     "imagenes": [
-      "producto/mini-sandwich-jamon-y-queso/images/mini-sandwich-jamon-y-queso-1.webp"
+      "/producto/mini-sandwich-jamon-y-queso/images/mini-sandwich-jamon-y-queso-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 26,
+    "id": "26",
     "slug": "mini-sandwich-pollo-con-choclo",
     "nombre": "Mini Sandwich Pollo con Choclo",
     "precio": "$13 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Mini sandwich de pollo con choclo tierno. Suave y lleno de sabor.",
     "stock": -1,
     "imagenes": [
-      "producto/mini-sandwich-pollo-con-choclo/images/mini-sandwich-pollo-con-choclo-1.webp"
+      "/producto/mini-sandwich-pollo-con-choclo/images/mini-sandwich-pollo-con-choclo-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 23,
+    "id": "23",
     "slug": "mini-tartaleta-de-pollo",
     "nombre": "Mini Tartaleta de Pollo",
     "precio": "$12 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Mini tartaletas rellenas de cremoso pollo desmenuzado. Un bocado irresistible.",
     "stock": -1,
     "imagenes": [
-      "producto/mini-tartaleta-de-pollo/images/mini-tartaleta-de-pollo-1.webp"
+      "/producto/mini-tartaleta-de-pollo/images/mini-tartaleta-de-pollo-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 22,
+    "id": "22",
     "slug": "mini-tartaletas-de-carne",
     "nombre": "Mini Tartaletas de Carne",
     "precio": "$12 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Mini tartaletas de masa crujiente rellenas de carne sazonada. Perfectas para cualquier evento.",
     "stock": -1,
     "imagenes": [
-      "producto/mini-tartaletas-de-carne/images/mini-tartaletas-de-carne-1.webp"
+      "/producto/mini-tartaletas-de-carne/images/mini-tartaletas-de-carne-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 8,
+    "id": "8",
     "slug": "peritas-de-cereza",
     "nombre": "Peritas de Cereza",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Escultura de chocolate blanco con cereza y detalles en pan de oro. Una joya comestible.",
     "stock": -1,
     "imagenes": [
-      "producto/peritas-de-cereza/images/peritas-de-cereza-1.webp"
+      "/producto/peritas-de-cereza/images/peritas-de-cereza-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 12278,
+    "id": "12278",
     "slug": "reloj-t500",
     "nombre": "Reloj t500",
     "precio": "29.99",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Reloj t500 a prueba de agua",
     "stock": -1,
-    "imagenes": [
-      "producto/reloj-t500/images/reloj-t500-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 10,
+    "id": "10",
     "slug": "tarta-de-pistacho",
     "nombre": "Tarta de Pistacho",
     "precio": "$25 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Masa sablée con crema de pistacho y trocitos crocantes. Elegancia en miniatura.",
     "stock": -1,
     "imagenes": [
-      "producto/tarta-de-pistacho/images/tarta-de-pistacho-1.webp"
+      "/producto/tarta-de-pistacho/images/tarta-de-pistacho-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 7,
+    "id": "7",
     "slug": "torta-con-mousse",
     "nombre": "Torta con Mousse",
     "precio": "$22 x 25u",
     "precio_promo": "",
-    "categoria": "clasico",
+    "categorias": [
+      "clasico"
+    ],
     "descripcion": "Vasitos de mousse de chocolate sobre base de brownie. Intenso y adictivo.",
     "stock": -1,
     "imagenes": [
-      "producto/torta-con-mousse/images/torta-con-mousse-1.webp"
+      "/producto/torta-con-mousse/images/torta-con-mousse-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 19,
+    "id": "19",
     "slug": "trufa-de-limon",
     "nombre": "Trufa de Limón",
     "precio": "$25 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Trufa de chocolate blanco con ganache de limón y flor rosa. Delicada y refrescante.",
     "stock": -1,
     "imagenes": [
-      "producto/trufa-de-limon/images/trufa-de-limon-1.webp"
+      "/producto/trufa-de-limon/images/trufa-de-limon-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 13,
+    "id": "13",
     "slug": "trufa-de-manjar-y-pecanas",
     "nombre": "Trufa de Manjar y Pecanas",
     "precio": "$23 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Trufa de manjar blanco con almendras caramelizadas. Texturas que enamoran.",
     "stock": -1,
     "imagenes": [
-      "producto/trufa-de-manjar-y-pecanas/images/trufa-de-manjar-y-pecanas-1.webp"
+      "/producto/trufa-de-manjar-y-pecanas/images/trufa-de-manjar-y-pecanas-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 24,
+    "id": "24",
     "slug": "wrap-jamon-y-queso",
     "nombre": "Wrap Jamón y Queso",
     "precio": "$15 x 25u",
     "precio_promo": "",
-    "categoria": "sal",
+    "categorias": [
+      "sal"
+    ],
     "descripcion": "Wrap enrollado con jamón, queso y vegetales frescos. Fresco y sabroso.",
     "stock": -1,
     "imagenes": [
-      "producto/wrap-jamon-y-queso/images/wrap-jamon-y-queso-1.webp"
+      "/producto/wrap-jamon-y-queso/images/wrap-jamon-y-queso-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
-    "id": 11,
+    "id": "11",
     "slug": "yemita-acarameladas",
     "nombre": "Yemita Acarameladas",
     "precio": "$20 x 25u",
     "precio_promo": "",
-    "categoria": "premium",
+    "categorias": [
+      "premium"
+    ],
     "descripcion": "Caramelos artesanales de yema acaramelada con envoltura iridiscente. Dulzura clásica.",
     "stock": -1,
     "imagenes": [
-      "producto/yemita-acarameladas/images/yemita-acarameladas-1.webp"
+      "/producto/yemita-acarameladas/images/yemita-acarameladas-1.webp"
     ],
     "variantes": [],
     "sku": ""

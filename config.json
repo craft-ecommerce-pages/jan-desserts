@@ -1,14 +1,14 @@
 {
-  "store_name": "JAN Dessert",
-  "site_title": "JAN Dessert – Bocaditos de Dulce",
-  "whatsapp_number": "593963769671",
-  "whatsapp_message": "¡Hola! Quiero hacer un pedido:",
-  "currency": "$",
-  "min_units": 25,
-  "min_days_advance": 7,
   "categories": {
     "clasico": "Bocaditos Clásicos",
     "premium": "Bocaditos Premium",
     "sal": "Bocaditos Salados"
-  }
+  },
+  "currency": "$",
+  "min_days_advance": 7,
+  "min_units": 25,
+  "site_title": "JAN Dessert – Bocaditos de Dulce",
+  "store_name": "JAN Dessert",
+  "whatsapp_message": "¡Hola! Quiero hacer un pedido:",
+  "whatsapp_number": "593963769671"
 }
