@@ -425,6 +425,21 @@
     "sku": ""
   },
   {
+    "id": "12432",
+    "slug": "pruducto-de-prueba-2",
+    "nombre": "Pruducto de prueba 2",
+    "precio": "$39.99",
+    "precio_promo": "",
+    "categorias": [
+      "clasico"
+    ],
+    "descripcion": "Producto de prueba",
+    "stock": -1,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "12278",
     "slug": "reloj-t500",
     "nombre": "Reloj t500",
