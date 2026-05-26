@@ -435,7 +435,9 @@
     ],
     "descripcion": "Producto de prueba",
     "stock": -1,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pruducto-de-prueba-2/images/pruducto-de-prueba-2-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
