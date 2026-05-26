@@ -435,7 +435,9 @@
     ],
     "descripcion": "Reloj t500 a prueba de agua",
     "stock": -1,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/reloj-t500/images/reloj-t500-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
