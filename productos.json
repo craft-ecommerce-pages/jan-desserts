@@ -430,9 +430,7 @@
     "nombre": "Pruducto de prueba 2",
     "precio": "$39.99",
     "precio_promo": "",
-    "categorias": [
-      "clasico"
-    ],
+    "categorias": [],
     "descripcion": "Producto de prueba",
     "stock": -1,
     "imagenes": [
