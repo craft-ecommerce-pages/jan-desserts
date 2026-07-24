@@ -186,23 +186,7 @@
     "variantes": [],
     "sku": ""
   },
-  {
-    "id": "12279",
-    "slug": "cepillo-secador-3-en-1",
-    "nombre": "Cepillo secador 3 en 1",
-    "precio": "29.99",
-    "precio_promo": "",
-    "categorias": [
-      "clasico"
-    ],
-    "descripcion": "Cepillo secador 2 en 1",
-    "stock": -1,
-    "imagenes": [
-      "/producto/cepillo-secador-3-en-1/images/cepillo-secador-3-en-1-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
+
   {
     "id": "6",
     "slug": "cheesecake-de-frutos-rojos",
@@ -424,38 +408,7 @@
     "variantes": [],
     "sku": ""
   },
-  {
-    "id": "12432",
-    "slug": "pruducto-de-prueba-2",
-    "nombre": "Pruducto de prueba 2",
-    "precio": "$39.99",
-    "precio_promo": "",
-    "categorias": [],
-    "descripcion": "Producto de prueba",
-    "stock": -1,
-    "imagenes": [
-      "/producto/pruducto-de-prueba-2/images/pruducto-de-prueba-2-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "12278",
-    "slug": "reloj-t500",
-    "nombre": "Reloj t500",
-    "precio": "29.99",
-    "precio_promo": "",
-    "categorias": [
-      "clasico"
-    ],
-    "descripcion": "Reloj t500 a prueba de agua",
-    "stock": -1,
-    "imagenes": [
-      "/producto/reloj-t500/images/reloj-t500-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
+
   {
     "id": "10",
     "slug": "tarta-de-pistacho",
