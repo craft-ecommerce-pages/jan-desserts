@@ -822,7 +822,7 @@
             <span class="qty-val" id="mqVal">${modalQty}</span>
             <button id="mqInc" ${!stock.canAdd||modalQty>=stock.maxQty?'disabled':''}>+</button>
           </div>
-          <button class="btn-modal-add" id="btnModalAdd" ${canAdd?'':\'disabled'}>
+          <button class="btn-modal-add" id="btnModalAdd" ${canAdd?'':'disabled'}>
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M12 5v14M5 12h14"/></svg>
             ${stock.canAdd?`Agregar \u00b7 ${formatPrice(effPrice*modalQty)}`:'Agotado'}
           </button>
